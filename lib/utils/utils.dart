@@ -11,7 +11,7 @@ class StaticUtils {
 
   // photos
   static const String mobilePhoto = 'assets/photos/mobile.png';
-  static const String coloredPhoto = 'assets/photos/colored.png';
+  static const String coloredPhoto = 'assets/photos/colored.jpeg';
   static const String blackWhitePhoto = 'assets/photos/black-white.png';
 
   // work
@@ -41,15 +41,15 @@ class StaticUtils {
     "https://facebook.com/mhmzdev",
     "https://instagram.com/mhmzdev",
     "https://twitter.com/mhmzdev",
-    "https://linkedin.com/in/mhmzdev",
-    "https://github.com/mhmzdev",
-    "https://mhmzdev.medium.com"
+    "https://www.linkedin.com/in/abhishek-mishra06460/",
+    "https://github.com/abhishekmishra06",
+    "https://medium.com/@abhishekmishra06460"
   ];
 
   static const String resume =
       'https://drive.google.com/file/d/1bDNNrkQtNVJbXcdwMSx0crQQvAF_nMwV/view?usp=sharing';
 
-  static const String gitHub = 'https://github.com/mhmzdev';
+  static const String gitHub = 'https://github.com/abhishekmishra06';
 }
 
 class BodyUtils {
